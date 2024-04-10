@@ -2232,9 +2232,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xlayerswap/sdk-core@npm:^4.3.2":
-  version: 4.3.2
-  resolution: "@xlayerswap/sdk-core@npm:4.3.2"
+"@xlayerswap/sdk-core@npm:^4.4.0":
+  version: 4.4.0
+  resolution: "@xlayerswap/sdk-core@npm:4.4.0"
   dependencies:
     "@ethersproject/address": ^5.0.2
     big.js: ^5.2.2
@@ -2242,7 +2242,7 @@ __metadata:
     jsbi: ^3.1.4
     tiny-invariant: ^1.1.0
     toformat: ^2.0.0
-  checksum: 34660ae5c607bce3bac97b67337b75efc90c958f6a3e801a8000d1bd59c10b7e91cc1e3b76664beb723005b4810416cd48eaca51517f864dfd1f958ddc5ba73d
+  checksum: d4d887e45131696021c2614202a0472cff99fc2311c4f14fe5a20bc6b0ad5e97551a45926a3c7f4b6f1ce999d258ffef17becc8105caab24a03aa3252c6b05f3
   languageName: node
   linkType: hard
 
@@ -2257,7 +2257,7 @@ __metadata:
     "@uniswap/v3-core": 1.0.0
     "@uniswap/v3-periphery": ^1.1.1
     "@uniswap/v3-staker": 1.0.0
-    "@xlayerswap/sdk-core": ^4.3.2
+    "@xlayerswap/sdk-core": ^4.4.0
     tiny-invariant: ^1.1.0
     tiny-warning: ^1.0.3
     tsdx: ^0.14.1
