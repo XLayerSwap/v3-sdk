@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.12.0",
+  "version": "3.12.1",
   "description": "An SDK for building applications on top of XLayerSwap",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -28,7 +28,7 @@
     "@uniswap/swap-router-contracts": "^1.2.1",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-staker": "1.0.0",
-    "@xlayerswap/sdk-core": "^4.3.1",
+    "@xlayerswap/sdk-core": "^4.3.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
